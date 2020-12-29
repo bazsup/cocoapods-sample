@@ -45,6 +45,10 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+	<key>NSFaceIDUsageDescription</key>
+	<string>please allow us to use faceid</string>
+	<key>NSCameraUsageDescription</key>
+	<string>please allow us to use camera</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>
